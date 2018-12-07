@@ -1,0 +1,3 @@
+export PATH="/app/local/miniconda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+. /app/local/miniconda/etc/profile.d/conda.sh
+
