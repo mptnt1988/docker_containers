@@ -3,7 +3,7 @@ Start Redis & Postgres.
 Setup nginx for Sentry first see nginx & ssl directores:
 ```
 cd /data/fixture/
-git clone git@bitbucket.org:mptnt1988/docker_containers.git
+git clone git@github.com:mptnt1988/docker_containers.git
 ```
 Generate secret key:
 ```
