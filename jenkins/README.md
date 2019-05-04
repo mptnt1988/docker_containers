@@ -1,6 +1,6 @@
 Setup nginx for Jenkins first: see nginx & ssl directories.
 ```
-git clone git@bitbucket.org:mptnt1988/docker_containers.git
+git clone git@github.com:mptnt1988/docker_containers.git
 ```
 ```
 cd docker_containers/
